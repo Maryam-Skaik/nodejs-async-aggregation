@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-async-aggregation",
+  "version": "1.0.0",
+  "description": "Node.js async aggregation demo using Promise.all, Promise.allSettled, and safe wrappers",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "nodejs",
+    "async",
+    "promise",
+    "promise-all",
+    "promise-allsettled",
+    "backend",
+    "teaching"
+  ],
+  "license": "MIT"
+}
